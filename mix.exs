@@ -43,6 +43,7 @@ defmodule Wabanex.MixProject do
       {:gettext, ">= 0.0.0"},
       {:jason, "~> 1.0"},
       {:plug_cowboy, "~> 2.0"},
+      {:crudry, "~> 2.4.0"},
       {:absinthe, "~> 1.5.0"},
       {:absinthe_plug, "~> 1.5"}
     ]
