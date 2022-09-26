@@ -6,8 +6,6 @@ defmodule Wabanex.IMC do
   end
 
 
-
-
   defp handle_file({:ok, content}) do
     data =
       content
