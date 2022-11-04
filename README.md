@@ -1,3 +1,5 @@
+Repositório referente ao projeto realizado durante a Next Level Week [Mission: Elixir] através da RocketSeat.
+
 # Wabanex
 
 To start your Phoenix server:
